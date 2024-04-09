@@ -1,5 +1,5 @@
 {
-  "name": "Adrian-MD",
+  "name": "Fearstl",
   "version": "1.4.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2023",
+    "2024",
     "wabase-md",
     "base",
     "baileys-md",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "AdrianTzy",
+  "author": "zayn",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:baileys",
